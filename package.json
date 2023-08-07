@@ -1,0 +1,25 @@
+{
+  "name": "pdf-table-extractor",
+  "version": "1.0.3",
+  "description": "Extract tables from PDF file",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Ronny Wang",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "pdfjs",
+    "pdf",
+    "table"
+  ],
+  "directory": {
+    "lib": "./"
+  },
+  "main": "./pdf-table-extractor.js",
+  "dependencies": {
+    "pdfjs-dist": "^1.5.446"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
