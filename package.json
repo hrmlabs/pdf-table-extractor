@@ -1,6 +1,6 @@
 {
-  "name": "pdf-table-extractor",
-  "version": "1.0.3",
+  "name": "pdf-table-extractor-v2",
+  "version": "1.0.0",
   "description": "Extract tables from PDF file",
   "scripts": {
     "test": "node test.js",
