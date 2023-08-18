@@ -3,7 +3,8 @@
   "version": "1.0.3",
   "description": "Extract tables from PDF file",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "ci": "node test.js"
   },
   "author": "Ronny Wang",
   "license": "BSD-3-Clause",
